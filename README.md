@@ -12,10 +12,10 @@ Before you get started, please follow this.
 #### 3. Open the .ipynb file
 
 ###### Github
-● File > Open Note > GitHub > Find 'SeongWoong-Hong' > repository 'TA_session' > select .ipynb file
+###### ● File > Open Note > GitHub > Find 'SeongWoong-Hong' > repository 'TA_session' > select .ipynb file
 
 ###### Upload File
-● Download .ipynb file from klms
-● File > Open Note > Upload > Upload .ipynb file
+###### ● Download .ipynb file from klms
+###### ● File > Open Note > Upload > Upload .ipynb file
 
 #### 4. save notebook to your own Google Drive
