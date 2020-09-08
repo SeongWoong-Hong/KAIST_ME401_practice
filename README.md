@@ -18,4 +18,4 @@ Before you get started, please follow this.
 - Download .ipynb file from klms
 - File > Open Note > Upload > Upload .ipynb file
 
-#### 4. save notebook to your own Google Drive
+#### 4. Save notebook to your own Google Drive
